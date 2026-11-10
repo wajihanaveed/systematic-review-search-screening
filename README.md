@@ -8,7 +8,6 @@ This repository contains the scripts which can be used for literature identifica
 | --- | --- |
 | `OSF.ipynb` | Notebook for searching and retrieving records from OSF. |
 | `arxiv.ipynb` | Notebook for arXiv literature searches. |
-| `final-arxiv.ipynb` | Additional arXiv search notebook. |
 | `title_&_abstract_screening_gpt.py` | Batch screening script using GPT. |
 | `title_&_abstract_screening_claude.py` | Batch screening script using Claude. |
 | `full_text_screening_gpt.py` | Full-text screening script using OpenAI models. |
